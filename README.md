@@ -1,4 +1,4 @@
-# SpringBoot-Project-BAMBOO
+# SpringBoot-Project-BAMBOO
 스프링 부트 + HTML, CSS, JS로 만든 게시판 사이트
 
 
